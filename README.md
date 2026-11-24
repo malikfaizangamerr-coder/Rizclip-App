@@ -1,0 +1,2 @@
+# Rizclip-App
+config.json
