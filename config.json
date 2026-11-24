@@ -1,0 +1,18 @@
+{
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0",
+  "updateTitle": "New Update Available",
+  "updateMessage": "New fixes and faster 720p export are ready.",
+  "apkUrl": "https://github.com/YOUR_USERNAME/rizclip-releases/releases/latest",
+  "admob": {
+    "appOpenId": "ca-app-pub-3940256099942544/9257395921",
+    "homeMrecBannerId": "ca-app-pub-3940256099942544/6300978111",
+    "exportBannerId": "ca-app-pub-3940256099942544/6300978111",
+    "rewardedId": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "unity": {
+    "gameId": "6231729",
+    "rewardedPlacementId": "Rewarded_Android",
+    "testMode": true
+  }
+}
