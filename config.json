@@ -3,7 +3,7 @@
   "latestVersionName": "1.0",
   "updateTitle": "New Update Available",
   "updateMessage": "New fixes and faster 720p export are ready.",
-  "apkUrl": "https://github.com/malikfaizangamerr-coder/Rizclip-update/releases",
+  "apkUrl": "https://api.github.com/repos/malikfaizangamerr-coder/Rizclip-update/releases",
   "admob": {
     "appOpenId": "ca-app-pub-3940256099942544/9257395921",
     "homeMrecBannerId": "ca-app-pub-3940256099942544/6300978111",
