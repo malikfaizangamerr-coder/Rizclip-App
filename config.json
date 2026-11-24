@@ -5,14 +5,14 @@
   "updateMessage": "New fixes and faster 720p export are ready.",
   "apkUrl": "https://api.github.com/repos/malikfaizangamerr-coder/Rizclip-update/releases",
   "admob": {
-    "appOpenId": "ca-app-pub-3940256099942544/9257395921",
-    "homeMrecBannerId": "ca-app-pub-3940256099942544/6300978111",
-    "exportBannerId": "ca-app-pub-3940256099942544/6300978111",
-    "rewardedId": "ca-app-pub-3940256099942544/5224354917"
+    "appOpenId": "ca-app-pub-5778837942045698/6592231918",
+    "homeMrecBannerId": "ca-app-pub-5778837942045698/7900930805",
+    "exportBannerId": "ca-app-pub-5778837942045698/7111106660",
+    "rewardedId": "ca-app-pub-5778837942045698/4401629958"
   },
   "unity": {
     "gameId": "6231729",
     "rewardedPlacementId": "Rewarded_Android",
-    "testMode": true
+    "testMode": false
   }
 }
