@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0",
+  "latestVersionCode": 5,
+  "latestVersionName": "5.0",
   "updateTitle": "New Update Available",
-  "updateMessage": "New fixes and faster 720p export are ready.",
-  "apkUrl": "https://api.github.com/repos/malikfaizangamerr-coder/Rizclip-update/releases",
+  "updateMessage": "Now Supported Even Older Android Versions.Bug Fixed More interesting Parts Auto Selected",
+  "apkUrl": "https://github.com/malikfaizangamerr-coder/Rizclip-update/releases/download/v5.0/RizClip_5.0.apk",
   "admob": {
     "appOpenId": "ca-app-pub-5778837942045698/6592231918",
     "homeMrecBannerId": "ca-app-pub-5778837942045698/7900930805",
